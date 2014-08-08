@@ -1,6 +1,6 @@
 === Embed Webmap ===
 Contributors: gavinr
-Donate link: https://www.gittip.com/gavinr/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gavreh%40gmail%2ecom&lc=US&item_name=Gavin%20Rehkemper&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: maps, gis, arcgis, webmap
 Requires at least: 3.5.1
 Tested up to: 3.6
