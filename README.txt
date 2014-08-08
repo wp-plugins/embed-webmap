@@ -22,6 +22,8 @@ Get your webmap ID (see screenshots for help) of a public webmap in ArcGIS Onlin
 
 ... replacing the ID section with the webmap ID that you got from your map.
 
+You can add many different options to the shortcode. See "Other Notes" above for details.
+
 == Installation ==
 
 = Using The WordPress Dashboard =
@@ -87,15 +89,15 @@ First stable release
 
 == Shortcode Options ==
 
-* id - The webmap ID of the map you wish to embed. Get this from the URL bar on arcgis.com. See the "Screenshots" page for help. Example: [webmap id="52475e6edb18471780858627b40460c2"]
-* extent - in the "shortened" form. Use http://psstl.esri.com/apps/extenthelper/ for help. Example: [webmap extent="-159.3635,7.093,-45.8967,63.7401"]
-* height - specify the height, in pixels. Example: [webmap height="600"]
-* width - specify the width, in pixels. Example: [webmap width="230"]
-* zoom - Include zoom buttons. Example: [webmap id="52475e6edb18471780858627b40460c2" zoom]
-* home - Include a home button. If this is included, the zoom buttons will automatically be included. Example: [webmap id="52475e6edb18471780858627b40460c2" home]
-* scale - Include a scale bar. Example: [webmap scale id="52475e6edb18471780858627b40460c2"]
-* legend - Include a legend button. Example: [webmap id="52475e6edb18471780858627b40460c2" legend]
-* description - display a details button on the map. Example: [webmap  description]
-* search - Include a location search textbox. Example: [webmap id="52475e6edb18471780858627b40460c2" search]
-* basemaps - Include a basemaps switch button/menu. Example: [webmap id="52475e6edb18471780858627b40460c2" basemaps]
-* view-larger-link - Include a link below the map to view the map in a larger window. Example: [webmap id="52475e6edb18471780858627b40460c2" view-larger-link]
+* **id** - The webmap ID of the map you wish to embed. Get this from the URL bar on arcgis.com. See the "Screenshots" page for help. Example: [webmap id="52475e6edb18471780858627b40460c2"]
+* **extent** - in the "shortened" form. Use http://psstl.esri.com/apps/extenthelper/ for help. Example: [webmap extent="-159.3635,7.093,-45.8967,63.7401"]
+* **height** - specify the height, in pixels. Example: [webmap height="600"]
+* **width** - specify the width, in pixels. Example: [webmap width="230"]
+* **zoom** - Include zoom buttons. Example: [webmap id="52475e6edb18471780858627b40460c2" zoom]
+* **home** - Include a home button. If this is included, the zoom buttons will automatically be included. Example: [webmap id="52475e6edb18471780858627b40460c2" home]
+* **scale** - Include a scale bar. Example: [webmap scale id="52475e6edb18471780858627b40460c2"]
+* **legend** - Include a legend button. Example: [webmap id="52475e6edb18471780858627b40460c2" legend]
+* **description** - display a details button on the map. Example: [webmap  description]
+* **search** - Include a location search textbox. Example: [webmap id="52475e6edb18471780858627b40460c2" search]
+* **basemaps** - Include a basemaps switch button/menu. Example: [webmap id="52475e6edb18471780858627b40460c2" basemaps]
+* **view-larger-link** - Include a link below the map to view the map in a larger window. Example: [webmap id="52475e6edb18471780858627b40460c2" view-larger-link]
